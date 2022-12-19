@@ -3,7 +3,7 @@
 This is an experimental repo to generate movie subtitle.
 If video file is large, extract audio to mp3 format and upload to avoid unwanted web crashes.
 
-##Hardware requirements
+## Hardware requirements
 The package uses Whisper (medium) model as default, requirements are as per the model.
 
 ## Authors
