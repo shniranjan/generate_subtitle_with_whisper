@@ -1,4 +1,3 @@
-#!/home/niranjan/anaconda3/envs/huggingface/bin/python
 import gradio as gr
 from custom_lib.loadcsvlist import loadArr
 from custom_lib.operator import model, video2mp3, SpeechToText
